@@ -64,6 +64,7 @@ We welcome new templates and improvements to existing ones. Read the [Contributi
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/image?repos=sx4im/awesome-claude-md&type=date&legend=top-left)](https://www.star-history.com/?repos=sx4im%2Fawesome-claude-md&type=date&legend=top-left)
+
 ---
 
 **Built by developers who got tired of Claude ignoring their coding standards.**
