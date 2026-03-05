@@ -64,7 +64,6 @@ We welcome new templates and improvements to existing ones. Read the [Contributi
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=sx4im/awesome-claude-md&type=Date&theme=light#gh-light-mode-only)](https://star-history.com/#sx4im/awesome-claude-md&Date)
-[![Star History Chart](https://api.star-history.com/svg?repos=sx4im/awesome-claude-md&type=Date&theme=dark#gh-dark-mode-only)](https://star-history.com/#sx4im/awesome-claude-md&Date)
 
 ---
 
