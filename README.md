@@ -61,9 +61,9 @@ That's it. Open the file, replace the `[PLACEHOLDERS]` with your project specifi
 
 We welcome new templates and improvements to existing ones. Read the [Contributing Guide](CONTRIBUTING.md) before opening a PR.
 
-## ⭐ Star History
+## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=sx4im/awesome-claude-md&type=date&legend=top-left)](https://www.star-history.com/?repos=sx4im%2Fawesome-claude-md&type=date&legend=top-left)
+[![Star History Chart](https://api.star-history.com/image?repos=sx4im/awesome-claude-md&type=date&legend=top-left)](https://www.star-history.com/?repos=sx4im%2Fawesome-claude-md&type=date&legend=top-left)
 ---
 
 **Built by developers who got tired of Claude ignoring their coding standards.**
