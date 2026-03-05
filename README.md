@@ -63,7 +63,8 @@ We welcome new templates and improvements to existing ones. Read the [Contributi
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/image?repos=sx4im/awesome-claude-md&type=date&legend=top-left&theme=light)](https://www.star-history.com/?repos=sx4im%2Fawesome-claude-md&type=date&legend=top-left)
+[![Star History Chart](https://api.star-history.com/svg?repos=sx4im/awesome-claude-md&type=Date&theme=light#gh-light-mode-only)](https://star-history.com/#sx4im/awesome-claude-md&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=sx4im/awesome-claude-md&type=Date&theme=dark#gh-dark-mode-only)](https://star-history.com/#sx4im/awesome-claude-md&Date)
 
 ---
 
